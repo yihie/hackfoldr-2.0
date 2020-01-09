@@ -1,1 +1,6 @@
-beta.hackfoldr.org
+  name: hack.lain.tw.
+  type: CNAME
+  value: yihie.github.io
+  evaluate target: -
+  health check id: -
+  ttl: 300
